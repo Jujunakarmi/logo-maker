@@ -2,11 +2,12 @@
  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
  [![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)](https://nodejs.org/en) 
  [![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat)](https://jestjs.io/)
-  
+ 
+
   ## Description
   Generate an **SVG logo** with your choice of shape (*circle, square, or triangle*), shape color, text (limit of 3 characters), and text color. Shape and text colors can be chosen using color keywords or hexadecimal numbers.
 
-  Watch a [video]() demonstration of the basic functionality:
+  Watch a [video](https://drive.google.com/file/d/15ZKARESmnK7F6iiwefmJjHVfJMwEz7Zx/view) demonstration of the basic functionality:
 
   ## Table of Contents
 
